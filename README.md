@@ -1,0 +1,2 @@
+# AsyncTaskTest
+使用AsyncTask进行网络异步线程加载，同时将图片进行缓存并使ListView在滚动时不加载停止滚动后加载图片，从而优化ListView加载流畅度
